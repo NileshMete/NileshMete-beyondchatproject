@@ -2,7 +2,6 @@
 
 A sleek frontend interface to **test**, **edit**, and **fine-tune** chatbot responses — built for developers, designers, and QA teams.
 
-![Chatbot Testing Interface](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Chatbot+Testing+Interface)
 
 ---
 
