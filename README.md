@@ -44,8 +44,7 @@ Git
 bash
 Copy
 Edit
-git clone https://github.com/NileshMete/beyondchatproject
-
+git clone https://github.com/NileshMete/beyondchat
 
 cd beyondchatproject
 2️⃣ Install Dependencies
