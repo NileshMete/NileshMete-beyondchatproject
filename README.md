@@ -28,6 +28,8 @@ A sleek frontend interface to **test**, **edit**, and **fine-tune** chatbot resp
 
 ---
 
+
+
 ## ⚙️ Requirements
 
 Before starting, ensure you have:
@@ -36,20 +38,14 @@ Before starting, ensure you have:
 Node.js >= 18
 npm >= 8 or yarn >= 1.22
 Git
-Check versions with:
 
-bash
-Copy
-Edit
-node --version
-npm --version
-git --version
-🚀 Getting Started
+
 1️⃣ Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/NileshMete/beyondchatproject
+
 
 cd beyondchatproject
 2️⃣ Install Dependencies
@@ -59,6 +55,8 @@ npm install        # or yarn install / pnpm install
 3️⃣ Install UI Components (shadcn/ui)
 bash
 
+
+
 npx shadcn@latest add button
 npx shadcn@latest add input
 npx shadcn@latest add textarea
@@ -67,6 +65,8 @@ npx shadcn@latest add badge
 npx shadcn@latest add avatar
 npx shadcn@latest add scroll-area
 npx shadcn@latest add dropdown-menu
+
+
 4️⃣ Run Dev Server
 bash
 
